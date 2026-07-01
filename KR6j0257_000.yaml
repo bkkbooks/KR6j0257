@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0257/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 千眼千臂觀世音菩薩陀羅尼神呪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1057b.xml
+    old_id: T20n1057b
+hash: sha256:bdf4d532de730005ce7238f6ad5be5bbad81ce5e2ca21d3fa387db2857215feb
